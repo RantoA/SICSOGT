@@ -7264,10 +7264,10 @@ quick-lru@^5.1.1:
   resolved "https://registry.yarnpkg.com/quick-lru/-/quick-lru-5.1.1.tgz#366493e6b3e42a3a6885e2e99d18f80fb7a8c932"
   integrity sha512-WuyALRjWPDGtt/wzJiadO5AXY+8hZ80hVpe6MyivgraREW751X3SbhRvG3eLKOYN+8VEvqLcf3wdnt44Z4S4SA==
 
-ra-core@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/ra-core/-/ra-core-4.0.0.tgz#a598b5c7a4377c18725eeca3e93131aed5d7d308"
-  integrity sha512-OVSz/Dl64Ob9WcnF00fD16i/JpTYeVxWl9GLT5gce6zxVilm2ICfwcIjwUyJSG7d6SJRbt3+0U2pdWlGgQfN8w==
+ra-core@^4.0.0, ra-core@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/ra-core/-/ra-core-4.1.0.tgz#8ee84c73f78e41f433ebb7c7de22095287b2a555"
+  integrity sha512-Df2w4nm/d9F53XN+q8lC6krrAI8bAbCARDVwPa1fafZHBMoI0CTPkQEOu1PEw7l8IQVt75ZKhXH4Pv48KsdZRQ==
   dependencies:
     clsx "^1.1.1"
     date-fns "^2.19.0"
@@ -7295,25 +7295,25 @@ ra-data-simple-rest@^4.0.1:
   dependencies:
     query-string "^7.1.1"
 
-ra-i18n-polyglot@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/ra-i18n-polyglot/-/ra-i18n-polyglot-4.0.0.tgz#5af1e594f85694d08e780b8acf91371c43714310"
-  integrity sha512-VywPpDV7AApYUOIXb9ydnxmaxoS4Uwb33tp5wUtDJ4LKxaaVwNdIsFdl4AtKV9/IJC2RVAHZtMz1SOUnNt3J1Q==
+ra-i18n-polyglot@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/ra-i18n-polyglot/-/ra-i18n-polyglot-4.1.0.tgz#437092584e43e72b6833f422340eb046ad3b151d"
+  integrity sha512-eUIY9mS3+nsojhk4AEP38vNH3HRjy7WNsbBSjftGqEFgVR0fUIOQa9xSsRlRnReLfZAzH1cO0cxuheu3S2JAeQ==
   dependencies:
     node-polyglot "^2.2.2"
-    ra-core "^4.0.0"
+    ra-core "^4.1.0"
 
-ra-language-english@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/ra-language-english/-/ra-language-english-4.0.0.tgz#0917b17937b8f21d6a476d1a67836574d7680394"
-  integrity sha512-0duIPvAdTqU9Di9GesJd+0OJ2Zwd3uC8OyY4BF/GXgjXBszB8f4XrClmxQv4Ioeq2R365+l4VpJCwxOv7wfUgg==
+ra-language-english@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/ra-language-english/-/ra-language-english-4.1.0.tgz#7505ff29206e77f0de5d341ab03d79857657373b"
+  integrity sha512-baF771lEIvT7j1BidwAI70qjurbPXpOJ70CMYFT3Fs+NtOMdrV8GWmXzpWDVjZPEfFk+CWMD51Qe/hAF1xqsPg==
   dependencies:
-    ra-core "^4.0.0"
+    ra-core "^4.1.0"
 
-ra-ui-materialui@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/ra-ui-materialui/-/ra-ui-materialui-4.0.1.tgz#2f82e1593624cd67e380d3a5600128222bb5eff7"
-  integrity sha512-WK0/bTLgnPHvt6tvGPvrMBnKaY+CPaqepDlacCGFASycyUMyClAoVuZPFlNgqVOrDc12kIHrFMnOSg1mryatug==
+ra-ui-materialui@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/ra-ui-materialui/-/ra-ui-materialui-4.1.0.tgz#c9fa862f6dc6cae43754f31823048cc6f5aceb51"
+  integrity sha512-1ofmDevEV9iEdfrC24x3gkKgxGv7aeT3u2rAgBRzzwBb1cwm7DKDjAj/epALJZTpjgygxeB58RqQlUSvX/ew+Q==
   dependencies:
     autosuggest-highlight "^3.1.1"
     clsx "^1.1.1"
@@ -7356,20 +7356,20 @@ raw-body@2.4.3:
     iconv-lite "0.4.24"
     unpipe "1.0.0"
 
-react-admin@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/react-admin/-/react-admin-4.0.1.tgz#22734cb71b1e52f0e21522eff1b39f762a0408c0"
-  integrity sha512-SERdbiqJDrMndMZvGZC4pdT0CAonwQVl/QVqy7JvZxZZno8T2FYXuRab53h7gzRRb/M6CoDjZxFsLRtyATn93Q==
+react-admin@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/react-admin/-/react-admin-4.1.0.tgz#a7a71b4a22ebf1eed79848ea7a0c330183f07426"
+  integrity sha512-YWgMvJKsbgax0fcc6QI37CpHava2gc/4OxLdAMeL0K7V/lcGzBp0WnsJ0ERPkhlfP7UncNcB5xgBHe3zbCjXyA==
   dependencies:
     "@emotion/react" "^11.4.1"
     "@emotion/styled" "^11.3.0"
     "@mui/icons-material" "^5.0.1"
     "@mui/material" "^5.0.2"
     history "^5.1.0"
-    ra-core "^4.0.0"
-    ra-i18n-polyglot "^4.0.0"
-    ra-language-english "^4.0.0"
-    ra-ui-materialui "^4.0.1"
+    ra-core "^4.1.0"
+    ra-i18n-polyglot "^4.1.0"
+    ra-language-english "^4.1.0"
+    ra-ui-materialui "^4.1.0"
     react-hook-form "^7.27.0"
     react-router "^6.1.0"
     react-router-dom "^6.1.0"
